@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LabWork5</string>
+    <string name="name">Метод Гауса з вибором головного елемента</string>
+    <string name="x1">x<sub>₁</sub>+</string>
+    <string name="x2">x<sub>₂</sub>+</string>
+    <string name="x3">x<sub>₃</sub>+</string>
+    <string name="x4">x<sub>₄</sub>=</string>
+    <string name="e">Введіть точність ɛ: </string>
+    <string name="result">Розв\'язати</string>
+</resources>
